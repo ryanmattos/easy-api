@@ -1,0 +1,18 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "SmartTV Samsung",
+         "description": "This is a Smart TV",
+         "price": 6879.91,
+         "imgUrl": "https://images.samsung.com/is/image/samsung/br-uhd-tu8000-un82tu8000gxzd-Black-4--247066473?$650_519_PNG$"
+      },
+      {
+         "id": 2,
+         "name": "Smartphone Samsung",
+         "description": "This is a Smartphone",
+         "price": 2254.99,
+         "imgUrl": "https://m.media-amazon.com/images/I/61m1Dot5KCL._AC_SX522_.jpg"
+      }
+   ]
+}
